@@ -1,18 +1,18 @@
 body {
     margin: 60px auto;
     width: 700px;
-    background-color:#436B99;
-    color:#CCE4FF;
+    background-color:#94618e;
+    color:#f4dec8;
 }
 a {
-    color: #FCE5BC;
+    color: #f4dec8;
 }
 a:visited {
   color: #D0AA65;
 }
 nav {
-    border-top: 1px solid #CCE4FF;
-    border-bottom: 1px solid #CCE4FF;
+    border-top: 5px solid #f4dec8;
+    border-bottom: 5px solid #f4dec8;
     font-size: 1.0em;
 }
 nav ul, footer ul {
@@ -28,13 +28,20 @@ nav ul li, footer ul li {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color:#49274a;
+}
+h2 {
+    font-size: 2em;
+    color:#49274a;
 }
 p, li {
     font-size: 1.2em;
     line-height: 1.2em;
 }
 footer {
-    border-top: 1px solid #CCE4FF;
+    border-top: 5px solid #49274a;
+    border-top: 5px solid #f4dec8;
+
     font-size: .8em;
 }
 
